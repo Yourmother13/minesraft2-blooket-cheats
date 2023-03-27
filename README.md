@@ -4,3 +4,4 @@
 ### To save a cheat right click and click Copy link address and past in url or make as a bookmarklet. <br>
 ### Make sure to put " javascript: " befot you past script/cheat <br>
 This is the best I could do<br>
+This will not be worked on <be>

@@ -1,12 +1,10 @@
 <p align="center">Cheats made by Minesraft2</p>
 <h2 align="center">Check out <a href="https://web.archive.org/web/20230317142811/https://minesraft2.github.io/Blooket-Cheats/">the website</a> for all the cheats</h2>
 <h3 align="center"><a href="https://discord.gg/QerPBatcca">Support Server</a></h2>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 # Todo
 
-- [ ] Possibly auto play
-- [ ] More Racing cheats
+- [ ] Figure out what happened to Minesraft2
 
 ## Information
 
@@ -25,25 +23,8 @@ We don't actually know what to do about this or how to fix it, sorry.
 
 <details><summary><h3><script> is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/Minesraft2/Blooket-Cheats/issues)
+Make sure you're running it properly, if it still doesn't work and other cheats do then isk what it is.
 </details>
-
-<details><summary><h3>What is the difference between obfuscated and unobfuscated?</h3></summary>
-
-Obfuscated are scripts that are changed to be unreadable, unobfuscated are the original scripts (both with an added update checker).
-Unobfuscated scripts will not work if you try copying it and pasting it into a bookmarklet. This is because of the lack of semicolons in certain places. Please either use the obfuscated scripts or use one of the methods mentions in the How to use
-</details>
-
-<details><summary><h3>Are you the same person as gliz?</h3></summary>
-
-No, I am not gliz. I'm a close friend who worked on the original Blooket cheats with him and took over after he got a cease and desist.
-</details>
-
-<details><summary><h3>Can you get infinite tokens or blooks?</h3></summary>
-
-No, those are managed on the server, we can't change any user data related to those.
-</details>
-
 
 <details><summary><h2>List of Cheats</h2></summary>
 

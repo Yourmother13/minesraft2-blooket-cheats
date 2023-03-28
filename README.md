@@ -1,5 +1,5 @@
 <p align="center">Cheats made by Minesraft2</p>
-<h2 align="center">Check out the <a href="https://web.archive.org/web/20230317142811/https://minesraft2.github.io/Blooket-Cheats/"></a>
+<h2 align="center">Check out the <a href="https://web.archive.org/web/20230317142811/https://minesraft2.github.io/Blooket-Cheats/"></a></h2>
 <h3 align="center"><a href="https://discord.gg/QerPBatcca">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 

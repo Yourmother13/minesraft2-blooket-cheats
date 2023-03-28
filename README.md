@@ -23,7 +23,7 @@ We don't actually know what to do about this or how to fix it, sorry.
 
 <details><summary><h3><script> is not working?</h3></summary>
 
-Make sure you're running it properly, if it still doesn't work and other cheats do then isk what it is.
+Make sure you're running it properly, if it still doesn't work and other cheats do then idk what it is.
 </details>
 
 <details><summary><h2>List of Cheats</h2></summary>

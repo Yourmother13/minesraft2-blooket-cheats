@@ -1,4 +1,4 @@
-<p align="center">Cheats made by Minesraft</p>
+<p align="center">Cheats made by Minesraft2</p>
 <h2 align="center">Check out the <a href="https://github.com/Minesraft2/Blooket-Cheats/tree/content">content branch</a> for more cheats</h2>
 <h3 align="center"><a href="https://discord.gg/QerPBatcca">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>

@@ -1,5 +1,5 @@
 <p align="center">Cheats made by Minesraft2</p>
-<h2 align="center">Check out <a href="https://github.com/VillainsRule/Blooket-Site">for all the cheats</a></h2>
+<h2 align="center">Check out <a href="https://github.com/VillainsRule/Blooket-Site">all the cheats</a></h2>
 <h3 align="center"><a href="https://discord.gg/QerPBatcca">Support Server</a></h2>
 
 # Todo
